@@ -1,0 +1,16 @@
+https://www.jetbrains.com/pycharm/download/#section=linux
+https://hyper.is
+yay -Sy discord-canary
+yay -Sy spotify
+yay -Sy barrier-bin
+yay -Sy stremio-beta
+yay -Sy trilium-bin
+https://rambox.app/
+yay -Sy viber
+yay -Sy mailspring
+yay -Sy glimpse
+yay -Sy clapper
+yay -Sy stacer
+yay -Sy extension-manager
+https://cutter.re/
+yay -Sy jd-gui
